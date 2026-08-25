@@ -9,7 +9,7 @@ cask "buildwithme" do
   homepage "https://buildwithme.app/"
 
   auto_updates true
-  depends_on macos: ">= :tahoe"
+  depends_on macos: :tahoe
 
   app "BuildWithMe.app"
 
