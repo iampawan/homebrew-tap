@@ -1,8 +1,8 @@
 cask "buildwithme" do
-  version "0.2.0,183"
-  sha256 "0dd93b2d87ee9f34ebe283a8c010b137a1830d1839e541211bcb1d8e45bd70ca"
+  version "0.2.1,185"
+  sha256 "2dd2d93b6d27914bf6f762e6c3c697f148405d3f887d9fa7ac8a2dfd60ef7b93"
 
-  url "https://github.com/iampawan/BuildWithMe-releases/releases/download/v0.2.0/BuildWithMe-0.2.0-183.dmg",
+  url "https://github.com/iampawan/BuildWithMe-releases/releases/download/v0.2.1/BuildWithMe-0.2.1-185.dmg",
       verified: "github.com/iampawan/BuildWithMe-releases/releases/download/"
   name "BuildWithMe"
   desc "Native workspace for building software with coding agents"
